@@ -1,7 +1,7 @@
 # Hyperblog 💚📝
 Un blog increíble para el[ Curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
 > El curso de Git y Github de Platzi era lo que me hacia falta para aprender sobre el sistema de versiones y esta gran herramienta!
-- Francisco Garcia
+> - Francisco Garcia
 
 ## En este curso vemos de todo
 * Todos los comandos de Git
