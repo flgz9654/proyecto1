@@ -55,8 +55,6 @@ body
 #imagen {
     border: 5px solid rgb(197, 60, 26);
     width: 50%;
-    display: flex;
-    justify-content: center;
 }
 
 #img {
